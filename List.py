@@ -27,7 +27,3 @@ print(min(nums))
 print(max(nums))
 
 print(sum(nums))
-
-
-
-
